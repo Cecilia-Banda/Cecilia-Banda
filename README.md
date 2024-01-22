@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cecilia-Banda
 - 👀 I'm interested in health care and how Technology can improve it.
-- 🌱 I'm currently learning Advanced ack End
+- 🌱 I'm currently learning Advanced Back End
 - 💞️ I'm looking to collaborate on ...
 - 📫 How to reach me: c.banda@alustudent.com
 
